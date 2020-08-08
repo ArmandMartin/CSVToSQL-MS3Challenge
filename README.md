@@ -32,7 +32,7 @@ These functions contain responsibilities that I felt should be separate from **c
 	<li>closeDBConnection()</li>
 	<li>setCsvReader(String path)</li>
 	<li>closeCsvReader()</li>
-	<li>createChain(String[] items)**</li>
+	<li>createChain(String[] items)</li>
 	<li>createTable(String[] headers, String tableName)</li>
 	<li>tableInsert(String[] data, String tableName)</li>
 </ul>
